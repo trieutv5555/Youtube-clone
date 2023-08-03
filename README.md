@@ -1,7 +1,8 @@
 
 # Responsive YouTube Clone Application developed with React JS , Material UI 5 , RapidApi
 
-![image](https://github.com/nithin3q/Youtube-clone/assets/52022957/9bd6e752-80ac-4a47-9167-8ea38a9592a0)
+![image](https://github.com/nithin3q/Youtube-clone/assets/52022957/91433c81-c3c7-40ac-92a0-f119fe09f5e6)
+
 
 # Getting Started with Create React App
 
